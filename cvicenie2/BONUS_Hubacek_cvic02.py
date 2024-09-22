@@ -1,5 +1,5 @@
 import time
-# Slovensko-anglický slovník
+
 dictionary = {"pes": "dog", "macka": "cat", "kon": "horse", "lev": "lion", "liska": "fox"}
 
 
@@ -43,6 +43,5 @@ def main():
             print("Neplatná voľba, skúste znova.")
         #time.sleep(2)
 
-# Spustenie programu
 if __name__ == "__main__":
     main()
